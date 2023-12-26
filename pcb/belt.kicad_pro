@@ -388,10 +388,13 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "BeltFootprints"
+    ],
     "pinned_symbol_libs": [
       "Raspberry-Pi-Pico",
-      "Barometer-KP212K1409XTMA1"
+      "Barometer-KP212K1409XTMA1",
+      "Thermometer-LM335D"
     ]
   },
   "meta": {

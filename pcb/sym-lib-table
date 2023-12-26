@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "Raspberry-Pi-Pico")(type "KiCad")(uri "${KIPRJMOD}/symbol_lib/Raspberry-Pi-Pico.kicad_sym")(options "")(descr ""))
   (lib (name "Barometer-KP212K1409XTMA1")(type "KiCad")(uri "${KIPRJMOD}/symbol_lib/Barometer-KP212K1409XTMA1.kicad_sym")(options "")(descr ""))
+  (lib (name "Thermometer-LM335D")(type "KiCad")(uri "${KIPRJMOD}/symbol_lib/Thermometer-LM335D.kicad_sym")(options "")(descr ""))
 )
