@@ -394,7 +394,8 @@
     "pinned_symbol_libs": [
       "Raspberry-Pi-Pico",
       "Barometer-KP212K1409XTMA1",
-      "Thermometer-LM335D"
+      "Thermometer-LM335D",
+      "Thermometer-AT30TS75A-SS8M"
     ]
   },
   "meta": {
