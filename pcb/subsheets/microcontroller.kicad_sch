@@ -735,8 +735,8 @@
     (uuid d0d3f258-c2c5-45d2-be0a-7569bb818869)
   )
 
-  (label "~{Reset}" (at 90.17 71.12 0) (fields_autoplaced)
-    (effects (font (size 1.016 1.016)) (justify left bottom))
+  (label "~{Reset}" (at 89.535 71.12 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 9f1375ba-0a8f-4390-937a-ec4b9bacf189)
   )
 
