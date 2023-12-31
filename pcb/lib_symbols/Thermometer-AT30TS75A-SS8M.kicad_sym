@@ -23,7 +23,7 @@
       (text "I2C" (at -6.35 3.81 0)
         (effects (font (size 0.762 0.762)) (justify left))
       )
-      (text "I2C Addr\nSelection" (at 7.62 -2.54 0)
+      (text "I2C Address\nSelection" (at 7.62 -2.54 0)
         (effects (font (size 0.762 0.762)) (justify right))
       )
       (pin bidirectional line (at -16.51 5.08 0) (length 5.08)
